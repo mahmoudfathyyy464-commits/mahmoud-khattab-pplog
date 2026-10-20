@@ -1,13 +1,10 @@
+
 {
-  "goatcounter": "YOUR-GOATCOUNTER-CODE",
-  "siteUrl": "https://YOUR-USERNAME.github.io/YOUR-REPO/",
+  "goatcounter": "",
   "giscus": {
-    "repo": "YOUR-USERNAME/YOUR-REPO",
-    "repoId": "PASTE_FROM_GISCUS.APP",
+    "repo": "mahmoudfathyyy464-commits/mahmoud-khattab-pplog",
+    "repoId": "R_kgDOU9_O_A",
     "category": "Announcements",
-    "categoryId": "PASTE_FROM_GISCUS.APP"
-  },
-  "newsletter": {
-    "formUrl": "https://XXXXXX.sibforms.com/serve/PASTE_FORM_ACTION_URL"
+    "categoryId": "DIC_kwDOU9_O_M4DJH85"
   }
 }
