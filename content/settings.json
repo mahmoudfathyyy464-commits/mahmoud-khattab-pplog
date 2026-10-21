@@ -1,9 +1,11 @@
 {
- "goatcounter": "mahmoudkhattab",
- "giscus": {
-  "repo": "mahmoudfathyyy464-commits/mahmoud-khattab-pplog",
-  "repoId": "R_kgDOU9_O_A",
-  "category": "Announcements",
-  "categoryId": "DIC_kwDOU9_O_M4DJH85"
- }
+  "goatcounter": "mahmoudkhattab",
+  "siteUrl": "mahmoudfathyyy464-commits/mahmoud-khattab-pplog",
+  "supabase": {
+    "url": "https://xwpyonytozctavvkbnqm.supabase.co",
+    "anonKey": "sb_publishable_BiUl2MztdkewZc1d8F8Ajg_IMCzGfvU"
+  },
+  "newsletter": {
+    "formUrl": "https://XXXXXX.sibforms.com/serve/PASTE_FORM_ACTION_URL"
+  }
 }
