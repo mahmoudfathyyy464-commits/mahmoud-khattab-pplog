@@ -1,9 +1,8 @@
 {
   "goatcounter": "mahmoudkhattab",
   "siteUrl": "https://mahmoudfathyyy464-commits.github.io/mahmoud-khattab-pplog/",
-  "supabase": {
-    "url": "https://xwpyonytozctavvkbnqm.supabase.co",
-    "anonKey": "sb_publishable_BiUl2MztdkewZc1d8F8Ajg_IMCzGfvU"
+  "comments": {
+"endpoint": "https://script.google.com/macros/s/PASTE-YOUR-WEB-APP-ID/exec"
   },
   "newsletter": {
     "formUrl": "https://XXXXXX.sibforms.com/serve/PASTE_FORM_ACTION_URL"
